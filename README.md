@@ -6,7 +6,7 @@ Welcome to the AI Fundamentals repository! This repository contains example code
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Installation](#installation-and-usage)
 - [Usage](#usage)
 - [Exercises](#exercises)
   - [Python Basics](#python-basics)
