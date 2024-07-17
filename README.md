@@ -27,7 +27,7 @@ This repository aims to provide a foundational understanding of AI and Machine L
 ## Prerequisites
 
 - Basic knowledge of Python programming
-- Jupyter Notebook installed
+- VS Code installed with Python and Jupyter extension.
 - Some familiarity with data science libraries like NumPy, Pandas, and Scikit-learn
 
 ## Installation and Usage
