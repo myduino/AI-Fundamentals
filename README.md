@@ -30,28 +30,20 @@ This repository aims to provide a foundational understanding of AI and Machine L
 - Jupyter Notebook installed
 - Some familiarity with data science libraries like NumPy, Pandas, and Scikit-learn
 
-## Installation
+## Installation and Usage
 
 1. Clone the repository:
-    \```bash
+    ```bash
     git clone https://github.com/myduino/AI-Fundamentals.git
-    \```
+    ```
 2. Navigate to the project directory:
-    \```bash
+    ```bash
     cd AI-Fundamentals
-    \```
-3. Install the required dependencies:
-    \```bash
-    pip install -r requirements.txt
-    \```
-
-## Usage
-
-Open Jupyter Notebook in the project directory:
-\```bash
-jupyter notebook
-\```
-Navigate to the desired exercise and start exploring the code.
+    ```
+3. Open the project directory in Visual Studio Code:
+    ```bash
+    code .
+    ```
 
 ## Exercises
 
